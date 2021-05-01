@@ -9,5 +9,7 @@ public interface IShipment {
 	public boolean getShipment();
 
 	public boolean getnewShipment();
+
+	/**Making change in comment for developer1 in IntelliJ*/
 	
 }
